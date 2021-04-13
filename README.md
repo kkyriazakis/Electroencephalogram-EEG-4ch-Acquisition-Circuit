@@ -8,5 +8,5 @@
 **This is a project for the course:**
 *Special Issues in Electrical Measurement Systems*
 
-Technical University of Crete 
+Technical University of Crete, 
 April 2021
