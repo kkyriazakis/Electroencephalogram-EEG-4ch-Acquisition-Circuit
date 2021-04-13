@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Analog Devices Inc AD8237ARMZ-R7
+#
+DEF AD8237ARMZ-R7 U 0 40 Y Y 1 L N
+F0 "U" 0 200 50 H V L CNN 
+F1 "AD8237ARMZ-R7" 0 300 50 H V L CNN 
+F2 "Analog_Devices_Inc--0-0-*" 0 400 50 H I L CNN 
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8237.pdf" 0 500 50 H I L CNN 
+F4 "IC" 0 600 50 H I L CNN "category"
+F5 "Instrumentation Amplifier 1 Circuit Rail-to-Rail 8-MSOP" 0 700 50 H I L CNN "digikey description"
+F6 "AD8237ARMZ-R7CT-ND" 0 800 50 H I L CNN "digikey part number"
+F7 "SOP65P490X110-8" 0 900 50 H I L CNN "ipc land pattern name"
+F8 "yes" 0 1000 50 H I L CNN "lead free"
+F9 "d3e822097d87cfea" 0 1100 50 H I L CNN "library id"
+F10 "Analog Devices Inc" 0 1200 50 H I L CNN "manufacturer"
+F11 "584-AD8237ARMZ-R7" 0 1300 50 H I L CNN "mouser part number"
+F12 "SOIC8" 0 1400 50 H I L CNN "package"
+F13 "yes" 0 1500 50 H I L CNN "rohs"
+F14 "+125°C" 0 1600 50 H I L CNN "temperature range high"
+F15 "-40°C" 0 1700 50 H I L CNN "temperature range low"
+DRAW
+X +IN 2 100 -300 100 R 40 40 1 1 U 
+X +VS 5 100 0 100 R 40 40 1 1 U 
+X -IN 3 100 -400 100 R 40 40 1 1 U 
+X -VS 4 100 -100 100 R 40 40 1 1 U 
+X BW 1 1000 -200 100 L 40 40 1 1 U 
+X FB 7 100 -600 100 R 40 40 1 1 U 
+X REF 6 100 -800 100 R 40 40 1 1 U 
+X VOUT 8 1000 0 100 L 40 40 1 1 U 
+S 200 100 900 -900 1 1 0 f
+ENDDRAW
+ENDDEF
+#
+# End Library

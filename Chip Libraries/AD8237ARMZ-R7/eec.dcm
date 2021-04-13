@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8237ARMZ-R7
+D AD8237ARMZ-R7
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8237.pdf
+$ENDCMP
+# end doc library
